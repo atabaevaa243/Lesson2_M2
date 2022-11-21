@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		04E8D2C62928FF1200938886 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2C52928FF1200938886 /* main.swift */; };
+		04E8D2CD292903F700938886 /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2CC292903F700938886 /* Human.swift */; };
+		04E8D2CF2929040700938886 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2CE2929040700938886 /* Teacher.swift */; };
+		04E8D2D129290BC200938886 /* Property.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2D029290BC200938886 /* Property.swift */; };
+		04E8D2D329290C0A00938886 /* Apartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2D229290C0A00938886 /* Apartment.swift */; };
+		04E8D2D529290C3F00938886 /* Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2D429290C3F00938886 /* Storage.swift */; };
+		04E8D2D729290C5F00938886 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E8D2D629290C5F00938886 /* Products.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		04E8D2C22928FF1200938886 /* Lesson2_M2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lesson2_M2; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E8D2C52928FF1200938886 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		04E8D2CC292903F700938886 /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		04E8D2CE2929040700938886 /* Teacher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
+		04E8D2D029290BC200938886 /* Property.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Property.swift; sourceTree = "<group>"; };
+		04E8D2D229290C0A00938886 /* Apartment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apartment.swift; sourceTree = "<group>"; };
+		04E8D2D429290C3F00938886 /* Storage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storage.swift; sourceTree = "<group>"; };
+		04E8D2D629290C5F00938886 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				04E8D2C52928FF1200938886 /* main.swift */,
+				04E8D2CC292903F700938886 /* Human.swift */,
+				04E8D2CE2929040700938886 /* Teacher.swift */,
+				04E8D2D029290BC200938886 /* Property.swift */,
+				04E8D2D229290C0A00938886 /* Apartment.swift */,
+				04E8D2D429290C3F00938886 /* Storage.swift */,
+				04E8D2D629290C5F00938886 /* Products.swift */,
 			);
 			path = Lesson2_M2;
 			sourceTree = "<group>";
@@ -120,7 +138,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E8D2CF2929040700938886 /* Teacher.swift in Sources */,
 				04E8D2C62928FF1200938886 /* main.swift in Sources */,
+				04E8D2D329290C0A00938886 /* Apartment.swift in Sources */,
+				04E8D2D729290C5F00938886 /* Products.swift in Sources */,
+				04E8D2D129290BC200938886 /* Property.swift in Sources */,
+				04E8D2CD292903F700938886 /* Human.swift in Sources */,
+				04E8D2D529290C3F00938886 /* Storage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
